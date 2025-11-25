@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/frequency_generator.gif" alt="Animated ILYAGHAFFARY FREQUENCY GENERATOR" width="450"/>
   <h1>ILYAGHAFFARY FREQUENCY GENERATOR: A Tool for Focus, Meditation, and Sleep</h1>
-  <p>A desktop application (built with PyQt) featuring a striking cyberpunk aesthetic, designed for the accurate generation of scientific and therapeutic audio frequencies.</p>
+  <p>A high-fidelity desktop application featuring a striking cyberpunk aesthetic, designed for the accurate generation of scientific and therapeutic audio frequencies.</p>
 </div>
 
 ---
@@ -25,11 +25,11 @@ This application combines a dynamic visual environment with precise scientific a
 
 ---
 
-## 💻 Architecture Highlights
+## 🏗️ Architecture Highlights (اصلاح شده)
 
-* **User Interface (UI):** Built using **PyQt**, focusing on fast rendering and fluid, custom animations.
-* **Animations:** Utilizes `QTimer` and the sine function ($sin$) within `paintEvent` methods to create the **pulsing** neon glow effects and the newly added **wavy** movement of all main widgets and buttons.
-* **Audio Engine:** Employs the **PyAudio** library and **NumPy** calculations for accurate, real-time generation of pure sine waves and various noise types.
+* **User Interface (UI):** Built using a **modern cross-platform framework**, focusing on **fast rendering** and **fluid, custom animations**.
+* **Animations:** Achieved using **low-level graphics rendering** and **precise mathematical functions** to create the **pulsing** neon glow effects and the **wavy** movement of all main widgets.
+* **Audio Engine:** Developed using **high-performance libraries** for accurate, real-time generation of pure sine waves and various noise types directly to the user's audio output.
 
 ---
 
