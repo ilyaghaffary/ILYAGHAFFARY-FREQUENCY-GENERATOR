@@ -1,9 +1,13 @@
 # 🎧 ILYAGHAFFARY FREQUENCY GENERATOR: The Neon Waves of Mind
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/frequency_generator.gif" alt="Animated ILYAGHAFFARY FREQUENCY GENERATOR" width="450"/>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/frequency_generator.gif" alt="Animated ILYAGHAFFARY FREQUENCY GENERATOR Demo" width="450"/>
   <h1>ILYAGHAFFARY FREQUENCY GENERATOR: A Tool for Focus, Meditation, and Sleep</h1>
   <p>A high-fidelity desktop application featuring a striking cyberpunk aesthetic, designed for the accurate generation of scientific and therapeutic audio frequencies.</p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
 </div>
 
 ---
@@ -14,22 +18,32 @@ This application combines a dynamic visual environment with precise scientific a
 
 * **✨ Cyberpunk Neon Aesthetic:** A dark, eye-catching theme dominated by high-contrast neon elements (like animated, pulsing frames and buttons) to create an immersive experience.
 * **〰️ Dynamic Wavy Animations (NEW):** Frames and buttons now feature a continuous **wavy (up and down) motion**, like a heartbeat or a subtle sound wave, ensuring a captivating, yet non-interfering, layout.
-* **🧠 Audio Generation Modes:** Supports all primary brainwave and therapeutic wave generation modes:
-    * **Binaural Beats:** For generating the required beat frequency (e.g., Alpha, Theta, Delta).
-    * **Isochronic Tones:** For brain stimulation with rhythmic pulses.
-    * **Solfeggio Freq:** Sacred frequencies like 528 Hz for focus and healing.
-    * **Noise Therapy:** Includes White, Pink, and Brown Noise for sleep and concentration.
+* **🧠 Audio Generation Modes:** Supports all primary brainwave and therapeutic wave generation modes, including Binaural Beats, Isochronic Tones, Solfeggio Frequencies, and Noise Therapy.
 * **🌐 Multi-Language Support:** Full support for both **English 🇬🇧** and **Persian 🇮🇷** languages.
 * **🔬 Scientific Presets:** Includes famous brainwave frequencies (Gamma, Theta, Delta) and Solfeggio frequencies (e.g., 432, 528 Hz).
 * **🔄 Loop Mode:** Ability to automatically play the selected frequency list cyclically (30-second intervals).
 
 ---
 
-## 🏗️ Architecture Highlights (اصلاح شده)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/tech_skills.gif" alt="Technical Skills Demonstration" width="450"/>
+</div>
+
+---
+
+## 🏗️ Architecture Highlights
+
+To maintain security and avoid revealing the core development language, the architecture is described in general terms:
 
 * **User Interface (UI):** Built using a **modern cross-platform framework**, focusing on **fast rendering** and **fluid, custom animations**.
 * **Animations:** Achieved using **low-level graphics rendering** and **precise mathematical functions** to create the **pulsing** neon glow effects and the **wavy** movement of all main widgets.
 * **Audio Engine:** Developed using **high-performance libraries** for accurate, real-time generation of pure sine waves and various noise types directly to the user's audio output.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/m.gif" alt="App Feature Demonstration" width="450"/>
+</div>
 
 ---
 
