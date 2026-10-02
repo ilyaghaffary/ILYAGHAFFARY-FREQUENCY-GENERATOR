@@ -19,7 +19,7 @@
 | **🐧 Linux** | x86_64 / Desktop | AppImage (.AppImage) | [📥 Download for Linux](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases/download/2.0.0v/ILYA_Frequency_Generator_Linux.AppImage) |
 | **🍎 macOS** | Apple Silicon / Intel | Disk Image (.dmg) | [📥 Download for macOS](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases/download/2.0.0v/ILYA_Frequency_Generator_macOS.dmg) |
 
-🔍 **All Releases & Tags:** [View GitHub Releases Page](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases/tag/2.0.0v)
+🔍 **All Releases & Tags:** [View GitHub Releases Page](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases)
 
 ---
 
