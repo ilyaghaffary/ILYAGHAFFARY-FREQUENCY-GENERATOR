@@ -1,13 +1,30 @@
 ## 🎧 ILYAGHAFFARY FREQUENCY GENERATOR: The Neon Waves of Mind
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/mm.gif" alt="Animated ILYAGHAFFARY FREQUENCY GENERATOR Demo" width="450"/>
-  <h1>ILYAGHAFFARY FREQUENCY GENERATOR: A Tool for Focus, Meditation, and Sleep</h1>
-  <p>A sleek, dark, and dynamic desktop application, featuring a stunning cyberpunk aesthetic and advanced audio generation modes.</p>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/mm.gif" alt="Animated ILYAGHAFFARY FREQUENCY GENERATOR Demo" width="450"/>
+  <h1>ILYAGHAFFARY FREQUENCY GENERATOR: A Tool for Focus, Meditation, and Sleep</h1>
+  <p>A sleek, dark, and dynamic cross-platform application featuring a stunning cyberpunk aesthetic, binaural beats, solfeggio frequencies, and advanced audio therapy modes.</p>
 </div>
 
+---
+
+## 🚀 Instant Download
+
+> **Get the latest release for your platform with a single click:**
+
+| Platform | Architecture / Type | Format | Direct Download Link |
+| :--- | :---: | :---: | :--- |
+| **🪟 Windows** | x64 / Desktop | Executable (.exe) | [📥 Download for Windows](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases/download/2.0.0v/ILYA_Frequency_Generator_Windows_Portable.exe) |
+| **🤖 Android** | Mobile / Tablet | Signed APK (.apk) | [📥 Download for Android](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases/download/2.0.0v/ILYA_Frequency_Generator_app-release.apk) |
+| **🐧 Linux** | x86_64 / Desktop | AppImage (.AppImage) | [📥 Download for Linux](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases/download/2.0.0v/ILYA_Frequency_Generator_Linux.AppImage) |
+| **🍎 macOS** | Apple Silicon / Intel | Disk Image (.dmg) | [📥 Download for macOS](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases/download/2.0.0v/ILYA_Frequency_Generator_macOS.dmg) |
+
+🔍 **All Releases & Tags:** [View GitHub Releases Page](https://github.com/ilyaghaffary/ILYAGHAFFARY-FREQUENCY-GENERATOR/releases/tag/2.0.0v)
+
+---
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
 </div>
 
 ---
@@ -29,7 +46,7 @@ This application transforms scientific sound generation into a modern, visually 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/tech_skills.gif" alt="Technical Skills Demonstration" width="450"/>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/tech_skills.gif" alt="Technical Skills Demonstration" width="450"/>
 </div>
 
 ---
@@ -38,7 +55,7 @@ This application transforms scientific sound generation into a modern, visually 
 
 The ILYAGHAFFARY Frequency Generator is built using modern paradigms focused on performance and precise audio output.
 
-* **Cross-Platform Support (NEW):** Designed for smooth and seamless execution across **Windows**, **Linux**, and **macOS** operating systems.
+* **Cross-Platform Support (NEW):** Designed for smooth and seamless execution across **Windows**, **Linux**, **Android**, and **macOS** operating systems.
 * **Animations:** Achieved using **low-level graphics rendering** and **precise mathematical functions** to create the **pulsing** neon glow effects and the **wavy** movement of all main widgets.
 * **Dynamic UI:** Utilizes a **modern cross-platform framework** for smooth, complex visual effects and fluid user interaction.
 * **Audio Core:** Features a dedicated, high-performance engine for accurate, real-time generation of pure audio waves and noise types.
@@ -47,7 +64,7 @@ The ILYAGHAFFARY Frequency Generator is built using modern paradigms focused on 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/m.gif" alt="App Feature Demonstration" width="450"/>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/m.gif" alt="App Feature Demonstration" width="450"/>
 </div>
 
 ---
@@ -66,7 +83,7 @@ Your support helps keep the neon lights blazing!
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/working_developer.gif" alt="Developer GIF" width="450"/>
 </div>
 
 ---
